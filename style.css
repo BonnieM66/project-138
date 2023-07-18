@@ -1,0 +1,38 @@
+body
+{
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading
+{
+    background-color: pink;
+    width: 100%;
+    text-align: left; 
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.instruction
+{
+    background-color: rgb(255, 251, 177);
+    float: right;
+    font-size: 18px;
+}
+
+.play
+{
+    background-color: rgb(255, 251, 177);
+    font-size: 20px
+}
+
+#status
+{
+    background: pink;
+    font-size: 20px
+}
